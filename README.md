@@ -1,4 +1,7 @@
 ### Hi there 👋
+  Hi, I am Soobin Lim, I am a software engineer and former dental assistant with biology background.
+  I learned about JavaScript, React, Redux, HTML, CSS, Ruby, Ruby on Rails, Mongoose, MongoDB, Node.js, Express.js, SQL, SQLite3, PostgreSQL, Webpack, jQuery, Git, and Heroku. 
+  I am still willing to learn and study more as a software developer.
 
 <!--
 **nhsb00/nhsb00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
